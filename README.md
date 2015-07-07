@@ -7,7 +7,7 @@ Turns a flat array of RGBA pixels, like those in a `Uint8ClampedArray`, into a n
 ## Example
 
 ```js
-var rgbaToPixels = require('rgba-to-pixels')
+var rgbaToPixels = require('rgba-to-canvas')
 
 var canvas = rgbaToPixels(pixels, [ 128, 128 ])
 document.body.appendChild(canvas)
