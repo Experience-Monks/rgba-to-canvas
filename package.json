@@ -1,0 +1,43 @@
+{
+  "name": "rgba-to-canvas",
+  "version": "1.0.0",
+  "description": "gets a new Canvas from the given RGBA pixel array",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "rgba",
+    "pixels",
+    "pixel",
+    "rgb",
+    "data",
+    "uint8",
+    "uint8array",
+    "from",
+    "canvas",
+    "to",
+    "2d",
+    "image",
+    "data",
+    "imagedata",
+    "putimagedata",
+    "context"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/rgba-to-canvas.git"
+  },
+  "homepage": "https://github.com/Jam3/rgba-to-canvas",
+  "bugs": {
+    "url": "https://github.com/Jam3/rgba-to-canvas/issues"
+  }
+}
